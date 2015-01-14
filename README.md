@@ -18,5 +18,5 @@ It had the following features:
 
 
 
-While this is admitadly not great code, probably the most interesting code to look at is the calculation of the position of the stars in the sky based on your location, the current time, and your orientation (from north)
+While this is admittedly not great code, probably the most interesting code to look at is the calculation of the position of the stars in the sky based on your location, the current time, and your orientation (from north)
 
